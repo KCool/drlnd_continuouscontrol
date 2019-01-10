@@ -35,7 +35,7 @@ In order to solve the environment, the agent must get an average score above +30
 
 Follow the instructions in `Continuous_Control_Solution.ipynb` to train your own agent!
 
-You can also use the pretrained agents (actor and critic) `checkpoint_actor_success.pth` + `checkpoint_critic_success.pth` (= pytorch models) which successfully solved the environment (in ~XXX steps).
+You can also use the pretrained agents (actor and critic) `checkpoint_actor_success.pth` + `checkpoint_critic_success.pth` (= pytorch models) which successfully solved the environment (in ~862 steps).
 
 ### Notes
 We make extensive use of code that was provided within previous exercises of the Udacity Deep RL Nanodegree (especially the plain DDPQ implementation).

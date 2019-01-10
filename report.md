@@ -8,7 +8,7 @@ In order to speed up convergence we implemented two additions compared to the or
 
 ### Learning Curve
 
-Score plot of our best attempt: An agent that solved the environment in XXX episodes.
+Score plot of our best attempt: An agent that solved the environment in 862 episodes. This is not really impressive, but the training time (about 3.5 hours) ...
 
 ![scores](images/scores.png)
 

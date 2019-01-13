@@ -20,7 +20,7 @@ In order to solve the environment, the agent must get an average score above +30
 
 2. Follow the steps in [here](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md) to install the Unity ML-Agents Toolkit.
 
-3. Clone this repository via `git clone https://github.com/KCool/drlnd_continuouscontrol.git`
+3. Clone this repository via `git clone https://github.com/kheimpel/drlnd_continuouscontrol.git`
 
 4. Download the Banana Navigation environment from one of the links below.  Select the environment which matches your operating system:
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher_Linux.zip)
